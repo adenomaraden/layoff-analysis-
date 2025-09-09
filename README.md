@@ -163,7 +163,7 @@ Relational database for structured data analysis
 
 Clone the repo:
 
-git clone https://github.com/your-username/sql-data-cleaning.git
+git clone https://github.com/adenomaraden/cleaning-and-analyzing-global-layoffs-data
 
 
 Import the dataset into your SQL database.
